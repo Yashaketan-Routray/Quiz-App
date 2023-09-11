@@ -38,6 +38,15 @@ const questions = [
             {text: "Europe", correct: false},
         ]
     },
+    {
+        question: "Which is largest ocean in the world ?",
+        answers:[
+            {text: "Artic Ocean", correct: false},
+            {text: "Atlantic Ocean", correct: false},
+            {text: "Pacific Ocean", correct: true},
+            {text: "Indian Ocean", correct: false},
+        ]
+    },
      
 ];
 
