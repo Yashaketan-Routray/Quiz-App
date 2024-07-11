@@ -47,6 +47,15 @@ const questions = [
             {text: "Indian Ocean", correct: false},
         ]
     },
+   {
+        question: " Which planet in the solar system is known as the “Red Planet”?",
+        answers:[
+        {text: "Venus", correct: false},
+        {text: "Earth", correct: false},
+        {text: "Mars", correct: true},
+        {text: "Jupiter", correct: false},
+        ]
+        },
      
 ];
 
